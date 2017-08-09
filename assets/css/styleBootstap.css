@@ -1,0 +1,49 @@
+@media screen and (min-width : 780px) {
+    .social {
+        width: 40px;
+        height: 40px;
+        margin-top: 8px;
+        margin-right: 5px;
+    }
+}
+
+@media screen and (min-width : 960px) {
+    .navbar-default .navbar-brand {
+        background-color: lightseagreen;
+        color: white;
+        font-family: Arial;
+        font-size: large;
+    }
+
+    .navbar {
+        background-color: white;
+    }
+
+    .top-buffer {
+        margin-top: 20px;
+    }
+
+    .social {
+        width: 62px;
+        height: 62px;
+        margin-top: 8px;
+        margin-right: 5px;
+    }
+
+    .green {
+        height: 10px;
+        background-color: lightseagreen;
+    }
+
+    .footer {
+        background-color: dimgrey;
+        height: 100px;
+        color: white;
+    }
+
+    .p {
+        padding: 40px;
+    }
+}
+
+
